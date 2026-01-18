@@ -1,9 +1,0 @@
-EXCEL TRAINING: ULTIMATE LOOKUP FUNCTION
-
-Shortcut for dropdown button Alt + D > L OR Go to Data Tab > Data Tools.
-Vlookup used for Vertical Column (top to column) . Search first column and return to another column (answer column) on the same row to pull out he data.
-Hlookup for Horizontal (left to right).
-=vl in the column + klik Tab ---> Syntax lookup_value is checking value, table_array is Data Set, col_index_num is which col number return as Answer.
-[range_lookup] is Checking 1st col data type. The square bracket is Optional
-Ctrl + D = to copy same formula above row
-Ctrl + shift + ! --> to put 2 decimal 
